@@ -25,7 +25,7 @@ For this project, I was interested in using the various Recommendation Systems' 
 
 ## File Descriptions <a name="files"></a>
 
-There are two main files in this project `Recommendations_with_IBM.ipynb' which contains all the code for the Recommendation Systems. And `project_tests.py` which contain the tests to ensure that the algorithms are implemented correctly
+There are two main files in this project `Recommendations_with_IBM.ipynb` which contains all the code for the Recommendation Systems. And `project_tests.py` which contain the tests to ensure that the algorithms are implemented correctly
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
